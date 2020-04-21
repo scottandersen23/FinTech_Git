@@ -1,6 +1,6 @@
-# Homework 1
+# Homework 1: August 25th 
 
-## This is Scott Andersen's homework.
+## Scott Andersen's homework.
 
 
 
@@ -8,4 +8,8 @@
 
 ---
 
-### FinTech Company: 
+### FinTech Company: Thoughts?
+
+    * Open Banking 
+    * Payments  
+    * Capital Investment 
