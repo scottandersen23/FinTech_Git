@@ -1,7 +1,15 @@
-#Scott_Andersen_NorthwesternMaster
-# VScode --> GitHub_Desktop_Repository
+#Scott_Andersen_Northwestern 
+
+## VScode --> GitHub_NW_Folder
 
 print("Scott Andersen")
-print("1 + 1 = 2")
+
+x = 1
+y = 5
+
+print(x + y)
+    
+
+
 
 
