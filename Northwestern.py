@@ -9,6 +9,7 @@ y = 5
 
 print(x + y)
 
+
     
 
 
@@ -20,4 +21,3 @@ health = 100
 
 player = ['Scott', 10, 16, 100]
 
-print(player[0])
