@@ -1,8 +1,3 @@
-# FinTech-BootCamp
-This is my portfolio
-
-Fibonacci 
-1 1 2 3 5 8 13 21 
 
 # hw_folder - Homework 1
 
@@ -12,7 +7,9 @@ Fibonacci
 
 
 ![Transferwise](Transferwise.png)
-" ***"Money Without Boarders*** "
+
+***"Money without Boarders"***
+
 
 
 ## Overview
@@ -74,5 +71,3 @@ Transferwise is considered a startup FinTech company, that plays in the *Persona
 
 ## *BY THE NUMBERS*
 
-
-Did it work?
