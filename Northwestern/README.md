@@ -12,23 +12,31 @@
 
 
 
-## Overview
+## **Domain:** 
+
+ *Transferwise is considered a startup FinTech company, that plays in the **Personal Finance** category with a focus in digital payments. However, the company is beginning to branch into business money transfers as well.*
+
+## **Overview:**
     
-Just a decade ago, Kristo Kaarmann & Taavet Hinrikus founded Transferwise in 2011. Kristo was quoted saying the idea came to him shortly after he recieved his Christmas bonus back in 2008. 
+Just a decade ago, Kristo Kaarmann & Taavet Hinrikus founded Transferwise in 2011. Kristo was quoted saying the idea came to him shortly after he recieved his Christmas bonus back in 2008.
 
 Working in London, he was paid in Pounds, but had a mortage back in Estonia that needed to be paid in Euros.
 
-When he went to transfer his bonus into his account in Estonia, he noticed that 500 euros were missing. The bank had used an exchange rate of 5% less favorable, which is common among banks, and just like the idea hit him. 
+When he went to transfer his bonus into his account in Estonia, he noticed that 500 euros were missing. The bank had used an exchange rate of 5% less favorable, which is common among banks, and just like the idea hit him.
 
-Today the transfer service acts as an online account for more than 5 million users. Allowing them to send money back and forth internationally at a fraction of the fees that banks charge! 
+Today the transfer service acts as an online account for more than 5 million users. Allowing them to send money back and forth internationally at a fraction of the fees that banks charge!
 
-## Funding 
+
+ 
+
+
+## **Funding:** 
 
 Over the course of the past 10 years, the company's value has more than doubled. With total funding surpassed $689 million going into 2018, making it the most valueable FinTech startup in Europe. (Forbes, May 2019) 
 
 * Transferwise has recently been valued at **$3.5 billion**! 
 
-**Investors worth mentioning...**
+### *Investors worth mentioning...*
 
 Existing:
 
@@ -44,22 +52,23 @@ Recent Investors:
 3. Vitruvian Partners
 4. Max Levchin (*PayPal - cofounder*)
 
-## Landscape
 
-Major Competitors:
+
+
+## **Landscape:**
+
+### Major Competitors:
 
 1. Currencycloud
 2. Revolut
 3. PayPal
 
 
+
+
 ![](foreign_debtcard.jpg)
 
-~ Domain ~
--
-Transferwise is considered a startup FinTech company, that plays in the *Personal Finance* category with a focus in digital payments. However, the company is beginning to branch into business money transfers as well.
-
-### **Trends & Industry Innovations**
+## *Trends & Industry Innovations:*
 
 * NFC technology, mPOS terminals and mobile wallets 
 * Contactless transactions
@@ -67,7 +76,6 @@ Transferwise is considered a startup FinTech company, that plays in the *Persona
 
 
 
-    ---
-
-## *BY THE NUMBERS*
+    .
+## **Competitve Metrics:**
 
