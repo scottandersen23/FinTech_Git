@@ -20,9 +20,9 @@ Just a decade ago, Kristo Kaarmann & Taavet Hinrikus founded Transferwise in 201
 
 Working in London, he was paid in Pounds, but had a mortage back in Estonia that needed to be paid in Euros.
 
-When he went to transfer his bonus into his account in Estonia, he noticed that 500 euros were missing. The bank had used an exchange rate of 5% less favorable, which is common among banks, and just like the idea hit him.
+When he went to transfer some of his Christmas bonus into his bank account tied to his  Estonia apartment, he noticed that 500 euros were missing. Due to the inflated exchange conversion rate associated with bank fees, he realized he had just donated 500 Euro just to pay his rent. The idea hit him. 
 
-Today the transfer service acts as an online account for more than 5 million users. Allowing them to send money back and forth internationally at a fraction of the fees that banks charge!
+Today, Transferwise acts as an online account for more than 5 million users. Allowing them to send money back and forth internationally at a fraction of the fees that banks charge!
 
 
  
@@ -30,9 +30,9 @@ Today the transfer service acts as an online account for more than 5 million use
 
 ## **Funding:** 
 
-Over the course of the past 10 years, the company's value has more than doubled, with total funding reaching $689 million going into 2018, making Transferwise the most valueable FinTech startup in Europe. (Forbes.com - May 2019) 
+Over the course of the next 10 years, the company's value has more than doubled, with total funding reaching $689 million going into 2018, making Transferwise the most valueable FinTech startup in Europe. (Forbes.com - May 2019) 
 
-* Transferwise has recently been valued at **$3.5 billion**! 
+* Transferwise has recently been valued at **$3.5 billion** backed by Peter Theil has just finished their third year in a row with profit! 
 
 ### *Investors worth mentioning...*
 
@@ -86,7 +86,7 @@ Transferwise has a company objective to make the exchange of currency between co
 
 They target international travelers, students studying abroad, freelance workers, small businesses and the average employee who works in a resturant in Italy but lives across the border in Germany and needs to pay his rent.
 
-Using Transferwise compared to a traditional currency exchange (WesternUnion) or a bank is that you can send your money converted and into the hands of the recipient within 24 hrs versus the standard 3-7 business days. 
+Using Transferwise compared to a traditional currency exchange (WesternUnion) or a bank is that you can send your money converted and into the hands of the recipient within 24 hours, against the standard of 3-7 business days. 
 
 The way they are able to complete this transaction so much quicker is by using 2 local transfers compared to international transfers that banks use. (Telegraph.co.uk - Aug 2018) 
 
@@ -99,18 +99,18 @@ The way they are able to complete this transaction so much quicker is by using 2
 
 ### Why Transferwise?
 
-A few key differentiators are first, their smart system: which is that the money never actually moves across borders, the currency conversion is done using the real mid-market exchange rate that you would find on Reuters or Google. And second is that TransferWise has also built a borderless account. Like a multi-currency account, that lets you hold over 40 different currencies and send and spend money overseas easily using your contactless TransferWise debit Mastercard (Telegraph.co.uk -AUG. 2018).
+Key differentiators start with their smart system: which allows for money to move across borders at the currency conversion using the real mid-market exchange rate that you would find on Reuters or Google. And second is that TransferWise has also built a borderless cash account. A multi-currency account, that lets you hold over 40 currencies to send and spend money overseas easily using their contactless TransferWise debit Mastercard (Telegraph.co.uk -AUG. 2018).
 
-According to Stackshare, Transferwise ranks the highest for...
+According to Stackshare, Transferwise ranks the highest in...
 1. Best Exchange Rates
 2. Fastest money transfers
 3. Best API Support
 
-Safety is another factor when it comes to international exchange. Many people feel comfortable with banks being the secure way to move money, when in reality, TransferWise is fully regulated by the Financial Conduct Authority, and just like large banks and financial institutions, verifies its users to protect against fraud and money laundering.
+Safety is crutial factor when it comes to international currency exchange. Many people feel comfortable with banks, trusting them to be the secure method when in reality, TransferWise is fully regulated by the Financial Conduct Authority, and just like large banks and financial institutions, the company verifies its users to protect against fraud and money laundering.
 
 ## Technologies 
 
-I am including only a handful of the software integrations that Transferwise uses to succeed in the market below is a list of 7:
+Below is a list of integrated technology platforms and only a handful of the software integrations that Transferwise uses today to succeed in the market:
 - Shopify
 - Zapier
 - Chargebee
@@ -120,32 +120,39 @@ I am including only a handful of the software integrations that Transferwise use
 - Talkable
 
 *(source: Stackshare.com)*
-## Money 
 
-TransferWise recorded a net profit of $7.9 million (£6.2 million) for the fiscal year ending March 2018, as revenues almost doubled to $148 million (£117 million).
+## Money *$$$*
 
-With its shiny new $3.5 billion price tag, TransferWise has become the most valuable fintech firm in Europe, surpassing U.K. digital lender OakNorth, which is valued at $2.8 billion.
+TransferWise recorded a net profit of $7.9 million (£6.2 million) for the fiscal year ending March 2018, revenues almost doubled to $148 million (£117 million).
 
+According to the latest earnings report from September, 2019 (CNBC.com), the company's net profit climbed to 10.3 million Euros, up 66% from the previous year. 
 
+TransferWise continues to be one of the most valuable fintech firms in Europe, holding onto positive balance sheets while their london rivals Revolute, reported losses of about £14.8 million and Monzo's losses reached 47 million last year.
 
-TransferWise has 5 million customers worldwide and is processing $5 billion (£4 billion) of money orders every month. The company, which employs 1,600 people across 12 offices, claims it saves customers £1 billion every year in banking fees.
+The company has 6 million users worldwide and is processing over $5 billion money orders every month. The company, claims it saves customers £1 billion every year in banking fees.
 
-The rise of TransferWise will no doubt be sending shivers down the spines of executives at companies like Western Union, as well as large banks around the world.
+The rise of FinTech companies like TransferWise will no doubt be sending panic into the minds of executives at companies like Western Union, as well as large banks around the world.
+
+## **RECOMMENDATIONS:**
+
+* WHAT PRODUCTS OR SERVICES WOULD YOU SUGGEST THEY OFFER TO IMPROVE?
+* WHY DO YOU THINK OFFERING THIS WOULD BENEFIT THE COMPANY?
+* WHAT TECHNOLOGIES WOULD THIS ADDITIONAL PRODUCT UTILIZE?
+* WHY ARE THEY TECHNOLOGIES APPROPRIATE FOR THE SOLUTION?
+
+---
+
 
 Currencycloud 
-- Doesn't have the same smooth technology feel.
-- More focused around business than consumers. 
-- All in one platform for companies to move money internationally. 
 - Partnered with Swift to track customer payments. 
 
-Revolut - $500 mil funding - 
-- Personal / Buisness
-- 10 million users
-- debtcard, only 28 currencies 
+Revolut  
 - idenifies close by ATMs for exchange
-- offers rewards, cryptocurrency transfers\
+- offers rewards, cryptocurrency transfers
 - monthly subscription for added perks...
-- It now has a customer base of over 10 million users, with customer growth climbing over 150% in 2019.
+
+
+
 FUNDING:
 It means Revolut’s valuation has seen a threefold increase from when it was last valued by investors at $1.7 billion in April 2018. With an extra $500 million in the bank, the latest round takes Revolut’s total amount raised up to $836 million.
 
