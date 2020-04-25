@@ -123,15 +123,17 @@ Below is a list of integrated technology platforms and only a handful of the sof
 
 ## Money *$$$*
 
-TransferWise recorded a net profit of $7.9 million (£6.2 million) for the fiscal year ending March 2018, revenues almost doubled to $148 million (£117 million).
+TransferWise recorded a net profit of $7.9 million (£6.2 million) for the fiscal year ending March 2018, which almost doubled to $148 million. According to the latest earnings report from September, 2019 (CNBC.com), the company's net profit climbed to 10.3 million euros, up 66% from the previous year. 
 
-According to the latest earnings report from September, 2019 (CNBC.com), the company's net profit climbed to 10.3 million Euros, up 66% from the previous year. 
+TransferWise continues to be one of the most valuable fintech firms in Europe, holding onto positive balance sheets while their london rivals Revolute, reported losses of about £14.8 million 
 
-TransferWise continues to be one of the most valuable fintech firms in Europe, holding onto positive balance sheets while their london rivals Revolute, reported losses of about £14.8 million and Monzo's losses reached 47 million last year.
+Revolut’s valuation has seen an increase from when it was last valued by investors at $1.7 billion in April 2018. With an extra $500 million in the bank, the latest round takes Revolut’s total amount raised up to $836 million. This is interesting considering the company's losses doubled in 2018 to £32.8 million. Investors are hoping a focus on subscription-based accounts, where users pay a monthly fee for additional perks, can help boost its bottom line. Anther competitor, Monzo's, losses reached 47 million last year.
 
 The company has 6 million users worldwide and is processing over $5 billion money orders every month. The company, claims it saves customers £1 billion every year in banking fees.
 
 The rise of FinTech companies like TransferWise will no doubt be sending panic into the minds of executives at companies like Western Union, as well as large banks around the world.
+
+![growth_chart](growth_chart.png)
 
 ## **RECOMMENDATIONS:**
 
@@ -142,18 +144,11 @@ The rise of FinTech companies like TransferWise will no doubt be sending panic i
 
 ---
 
+I believe Transferwise has a sound buisness plan, it seems to be working with profits growing over the last 3 years. However, if I were to make a reccommendation, I would suggest they add a rewards program and try to setup text alerts for when the recipent has the money in their bank account.
 
-Currencycloud 
-- Partnered with Swift to track customer payments. 
+People love rewards programs because it makes them feel like they're getting a little something extra when they buy from you. As a consumer, I can relate and it drives you to come back to that particular store or use that card more oftern so that you can build points. I think this could be one way Transferwise could grab market share. Payment companies want you to use their platform to pay. They make their money based on the volume of transactions running on their system and a rewards program would incentivize purchases. 
 
-Revolut  
-- idenifies close by ATMs for exchange
-- offers rewards, cryptocurrency transfers
-- monthly subscription for added perks...
+They could also take advantage of the rewards by partnering with well known merchants that could allow card users to recieve bonus points or discounts on products when they use the debtcard at their store. I believe this would add to the excitment and encourage customers to use the card more oftern. 
 
+Adding a rewards program to their already silky smooth website and payment platform would not take much implementation. They could easily roll that out by adding the programming. 
 
-
-FUNDING:
-It means Revolut’s valuation has seen a threefold increase from when it was last valued by investors at $1.7 billion in April 2018. With an extra $500 million in the bank, the latest round takes Revolut’s total amount raised up to $836 million.
-
-He added that it was “striving towards profitability,” something that will be closely watched by investors after the company’s losses doubled in 2018 to £32.8 million ($42.4 million). It’s hoping a focus on subscription-based accounts, where users pay a monthly fee for additional perks, can help boost its bottom line
