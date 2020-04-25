@@ -16,7 +16,7 @@
 
 ## **Overview:**
     
-Just a eleven years ago two guys from Estonia started a company. Kristo Kaarmann & Taavet Hinrikus founded the company Transferwise, with a goal to improve the way money is transfered between people internationally. When asked about where he got the idea for the company, Kristo was quoted as saying the idea came "shortly after he recieved his Christmas bonus, in late 2008." (*NBC*)
+Just a eleven years ago, two guys from Estonia started a company. Kristo Kaarmann and Taavet Hinrikus founded the company Transferwise, with a goal to improve the way money is transfered between people internationally. When asked about where he got the idea for the company, Kristo was quoted as saying the idea came "shortly after he recieved his Christmas bonus" in late 2008. (*NBC*)
 
 Working in London, he was paid in pounds, but had a mortage back in Estonia that needed to be paid in Euros.
 
