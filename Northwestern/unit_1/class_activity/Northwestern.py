@@ -10,10 +10,6 @@ y = 5
 print(x + y)
 
 
-    
-
-
-
 player_name = 'Scott'
 player_attack = 10 
 player_heal = 16 
