@@ -1,5 +1,6 @@
 {
     "workbench.colorTheme": "Ayu Mirage",
     "workbench.preferredDarkColorTheme": "Tomorrow Night Blue",
-    "workbench.panel.defaultLocation": "right"
+    "workbench.panel.defaultLocation": "right",
+    "python.pythonPath": "/usr/local/anaconda3/bin/python"
 }
