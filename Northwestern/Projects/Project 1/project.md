@@ -7,6 +7,7 @@
 ### We are looking at the impact on the US economy when a natural disaster hits. Comparing the effect on individual sectors when the GDP jumps up or down over 2.5% to normal standard deviation since 2000.
 
 ![2020](GDP_chart.png)
+![def/agg](pie_chart_gdp.png)
 ***" When is the right time to buy? "***
 
 ## **Sectors and Disasters**
