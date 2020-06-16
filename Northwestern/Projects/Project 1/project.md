@@ -24,17 +24,20 @@
 (*stockmarketjumps.com*)
 
 ## DEFENSIVE VS AGGRESSIVE SECTORS
-- What do you notice about the graph? (Defensive stocks had higher average returns in 11/20 years, Aggressive stocks had higher returns in 8/20 years with 2017 blank.)
+- What do you notice about the graph? 
+
+
+- Defensive stocks had higher average returns only one time in 20 years, Aggressive stocks had higher returns in 19/20 years.
 
 
 
 ## **What sectors do you think had the best recorvery???**
 
-![def/agg](agg_def_scaled.png)
+![def/agg](cat_joined_bar.png)
 ### - The graph below shows the Defensive and Aggressive sectors compared to the total stock market as well as the number of people who were considered affected by the disaster along with a line for total deaths.  
 
 ![final](Final.png)
 ![def/agg](p_graph.png)
-### - Based on this preliminary analysis your best bet would have been to invest in aggressive sectors for slightly higher returns.
 
-### - As an overall conclusion we found that despite what common knowledge might say. It is best to invest in the market right after a crash because in each case when a disaster event occured the market was quick to recover and buying at the low point would give you the best opportunity to make higher returns. 
+# Conclusion 
+## Based on our groups preliminary exploratory analysis as an overall conclusion we found that despite what common knowledge might say. When the market crashes or dips, investing in industries considered "aggressive" would probably reward higher returns. We also noticed that the market is typically quick to recover from a disaster event. Meaning the faster you get in after a crash the better. 
