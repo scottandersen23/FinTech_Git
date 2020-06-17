@@ -14,8 +14,8 @@
 
 ### In this section we were trying to understand what sectors of the market were hit during those major events, and then find out if there were any patterns to which sectors had the fastest recovery.
 
-![final](natdisaster.png)
-![final](dis_affected.png)
+![final](nat_disaster_dead.png)
+
 
  
 - IN THIS GRAPH WE COMPARED THE JUMPS AGAINST EACH OF THE SECTORS TO SEE IF ANY INDUSTRY HAS CONSISTENTLY HIGHER VOLITILATY THEN THE REST (*worldbank.com*). 
