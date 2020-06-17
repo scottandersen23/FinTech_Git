@@ -12,7 +12,7 @@
 
 ## **Sectors and Disasters**
 
-### In this section we were trying to understand what sectors of the market were hit during those major events, and then find out if there were any patterns to which sectors had the fastest recovery.
+### In this section we were trying to understand what sectors of the market were hit during those major events, and then find out if there were any patterns to which sectors had the fastest recovery (EM_DAT.com).
 
 ![final](nat_disaster_dead.png)
 
