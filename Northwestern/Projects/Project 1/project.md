@@ -4,7 +4,7 @@
 ## *Scott, Jatinder, Jason*
 ---
 
-### We are looking at the impact on the US economy when a natural disaster hits. Comparing the effect on individual sectors when the GDP jumps up or down over 2.5% to normal standard deviation since 2000.
+### We are looking at the trends in the US economy and the impact when a natural disasters occur. Comparing the effect on individual sector jumps at 2.5% to normal standard deviation since 2000.
 
 ![2020](GDP_chart.png)
 ![def/agg](pie_chart_gdp.png)
@@ -12,21 +12,32 @@
 
 ## **Sectors and Disasters**
 
-### In this section we looked at when the GDP jumped above or below 2.5%. We were trying to understand what sectors of the market were hit during those major events, and then find out if there were any patterns to which sectors had the fastest recovery.
+### In this section we were trying to understand what sectors of the market were hit during those major events, and then find out if there were any patterns to which sectors had the fastest recovery.
+
 ![final](natdisaster.png)
 ![final](dis_affected.png)
 
+ 
 - IN THIS GRAPH WE COMPARED THE JUMPS AGAINST EACH OF THE SECTORS TO SEE IF ANY INDUSTRY HAS CONSISTENTLY HIGHER VOLITILATY THEN THE REST (*worldbank.com*). 
 ![final](std_dev.png)
-![final](image.png)
 
- - BUBBLE GRAPH THAT SHOWS EACH SECTOR AND THE NUMBER OF TIMES IT JUMPS OVER 2.5%
+BUBBLE GRAPH THAT SHOWS EACH SECTOR AND THE NUMBER OF TIMES IT JUMPS OVER 2.5%
 ![bubble_chart](bubble_chart.png)
+![materials_bubblechart](indv_secbubbles.png)
+
+
 (*stockmarketjumps.com*)
 
-## DEFENSIVE VS AGGRESSIVE SECTORS
-- What do you notice about the graph? 
+This graph shows the average returns per sector over the course of the last 20 years to determine which sectors are growing and performing better than others. 
+![final](image.png)
 
+
+
+## DEFENSIVE VS AGGRESSIVE SECTORS
+### What do you notice about the graph? 
+
+- **Aggressive Sectors = Communications, Materials, Financials, Technology, BioTech, Semiconductor, Materials**
+- **Defensive Sectors = Consumer Staples, Home Construction, Defense, Healthcare, Utilities**
 
 - Defensive stocks had higher average returns only one time in 20 years, Aggressive stocks had higher returns in 19/20 years.
 
@@ -38,6 +49,8 @@
 ### - The graph below shows the Defensive and Aggressive sectors compared to the total stock market as well as the number of people who were considered affected by the disaster along with a line for total deaths.  
 
 ![final](Final.png)
+- We discovered that there is no real correlation to any of these sectors and the number of people affected.  
+
 ![def/agg](p_graph.png)
 
 # Conclusion 
